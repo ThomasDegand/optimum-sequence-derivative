@@ -1,2 +1,2 @@
-# optimum-sequence-derivative
+# Optimum Sequence Derivative (IIR Filter)
 Optimum Sequence Derivative - IIR Filter
